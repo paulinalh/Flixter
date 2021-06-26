@@ -31,9 +31,12 @@ Here's a walkthrough of implemented user stories:
 
 [Horizontal Video](Gifs/FlixterHorizontal.gif)
 
-<img src='Gifs/FlixterHorizontal.gif' title='Horizontal Video' width='100' alt='Horizontal Video' />
+<img src='Gifs/FlixterHorizontal.gif' title='Horizontal Video' width='1000' alt='Horizontal Video' />
 
 [Vertical Video](Gifs/FlixterVertical.gif)
+
+<img src='Gifs/FlixterVertical.gif' title='Vertical Video' width='500' alt='Vertical Video' />
+
 
 GIF created with [Kap](https://getkap.co/).
 
