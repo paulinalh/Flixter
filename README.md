@@ -1,5 +1,4 @@
 # Flixter
-# Flixter
  2nd Assignment FBU 2021 internship
 
  # Project 2 - Flixter
@@ -30,7 +29,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Vertical Video](Gifs/FlixterHorizontal.gif)
+[Horizontal Video](Gifs/FlixterHorizontal.gif)
 
 [Vertical Video](Gifs/FlixterVertical.gif)
 
