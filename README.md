@@ -42,7 +42,10 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Getting used to using the API was challenging, but also very intersting and I was able to learn a lot. Making the images fit right on the screen was time consuming. Also, my emulator had some problems at the beginning so I got a little behind.
+Getting used to using the API was challenging, but also very intersting and I was able to learn a lot.
+Making the images fit right on the screen was time consuming.
+Also, my emulator had some problems at the beginning so I got a little behind.
+Finally, there were some spaces between the movies that sometimes showed up when the user scrolls up
 
 ## Open-source libraries used
 
